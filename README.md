@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Tiannn-r](github-header-banner.png)
 <!--
 **Tiannn-r/Tiannn-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
